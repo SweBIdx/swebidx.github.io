@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: Home
+    url: /
+  - title: News
+    url: /news/
+  - title: Activities
+    url: /activities/
+  - title: Members
+    url: /members/
+  - title: Contact
+    url: /contact/
