@@ -3,7 +3,7 @@ title: Activities
 permalink: /activities/
 ---
 
-TODO: Google calendar
+TODO: embedded Google calendar
 
 ## Zulip organization
 
