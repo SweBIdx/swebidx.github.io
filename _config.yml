@@ -19,7 +19,7 @@ name: SweBIdx
 description: Swedish BioImage Data & Developers Exchange
 url: https://swebidx.github.io
 baseurl: ""
-repository: SweBIdx/swebidx.github.io
+repository: SweBIdx/SweBIdx.github.io
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -146,7 +146,7 @@ footer:
     #   # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/SweBIdx/swebidx.github.io
+      url: https://github.com/SweBIdx/
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
